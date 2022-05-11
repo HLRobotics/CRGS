@@ -1,0 +1,15 @@
+<SWARM>
+    <shelf>        
+        <payload name="1">firebase-admin</payload>
+        <payload name="2">firebase</payload>
+        <payload name="3">gcloud</payload>
+        <payload name="4">sseclient</payload>
+        <payload name="5">pycryptodome</payload>
+        <payload name="6">sseclient</payload>
+        <payload name="7">requests-toolbelt</payload>
+        <payload name="8">python_jwt</payload>
+        <payload name="9">pandas</payload>
+        <payload name="10">pyserial</payload>
+
+    </shelf>
+</SWARM>

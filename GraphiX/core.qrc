@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>firebase.png</file>
+    <file>logo.png</file>
+    <file>Debian-Logo-.png</file>
+    <file>aavdm6ll9u4rejqcjjij.ico</file>
+    <file>fire.jpg</file>
+    <file>index.jfif</file>
+  </qresource>
+</RCC>
