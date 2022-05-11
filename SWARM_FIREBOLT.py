@@ -1,12 +1,5 @@
-
-"""
-Inker Robotics Pvt Ltd 
-Developed on Jan 2021
-Hardware Designed and Developed by:Er.Anu Antony
-Software and Logic Designed and Developed by:Er.Akhil P Jacob
-
-"""
-
+# Developed on Jan 2021
+# Software and Logic Designed and Developed by:Er.Akhil P Jacob
 from PyQt5 import QtCore, QtGui, QtWidgets
 from Robot_Guidance_System import PhysicalParamTester
 from FireBase import fireRTDB_update
